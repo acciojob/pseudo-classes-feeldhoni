@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+p6:first-child{
+	background-color:black;
+}
+
+p:root{
+	background-color:rgb(135, 206, 235);
+}
+p1:nth-child{
+	color:standard-text;
+}
+p3:last-child{
+	color:red;
+}
+ul{
+	width:50%;
+	padding:10px;
+	background-color:gray;
+}
+.w{
+	font-style:22px;
+	background-color:white;
+}
+.d{
+	font-style:22px;
+	background-color:white;
+	background-color:pink;
+}
+.a{
+	background-color:white;
+	background-color:pink;
+}
+.s{
+	background-color:pink;
+}
