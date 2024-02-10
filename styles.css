@@ -1,10 +1,12 @@
 /*  your css code here. If applicable */
 p6:first-child{
 	background-color:black;
+	rgb(255, 255, 255);
 }
 
 p:root{
 	background-color:rgb(135, 206, 235);
+	rgb(135, 206, 235);
 }
 p1:nth-child{
 	color:standard-text;
